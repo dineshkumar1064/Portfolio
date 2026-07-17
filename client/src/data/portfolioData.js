@@ -97,7 +97,7 @@ export const projects = [
     credentials: { email: 'admin@test.com', password: 'password123' },
     tags: ['LangChain.js', 'Pinecone', 'MongoDB'],
     live: 'https://ragdocchat.vercel.app/',
-    video: 'https://youtu.be/your-demo-id',
+    video: '',
     code: 'https://github.com/dineshkumars/rag-document-qa',
   },
   
