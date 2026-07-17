@@ -98,7 +98,7 @@ export const projects = [
     tags: ['LangChain.js', 'Pinecone', 'MongoDB'],
     live: 'https://ragdocchat.vercel.app/',
     video: '',
-    code: 'https://github.com/dineshkumars/rag-document-qa',
+    code: 'https://github.com/dineshkumar1064/RAG-System-Context-Aware-Q-A-over-Custom-Documents',
   },
   
   {
@@ -146,7 +146,7 @@ export const projects = [
     tags: ['React', 'Node.js', 'LangChain.js'],
     live: '',
     video: 'https://www.linkedin.com/posts/dinesh-kumar04_ai-mernstack-apiintegration-activity-7434270546361532417-hOHu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcNJU8BO-T9PBGPAzZsc8vjlnV4NdPwxLI',
-    code: 'https://github.com/dineshkumars/poly-mind',
+    code: 'https://github.com/dineshkumar1064/Polymind',
   },
 
   {
@@ -163,7 +163,7 @@ export const projects = [
     tags: ['React', 'Node.js', 'MongoDB', 'Express'],
     live: '',
     video: '',
-    code: 'https://github.com/dineshkumars/mern-ecommerce',
+    code: 'https://github.com/dineshkumar1064/mern-ecommerce',
   },
 ];
 
