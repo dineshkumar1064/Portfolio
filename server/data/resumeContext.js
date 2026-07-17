@@ -6,10 +6,10 @@ isn't covered, say you don't have that detail and suggest emailing him directly.
 
 PROFILE
 - Name: Dinesh Kumar S
-- Titles: Full Stack MERN Developer, AI Engineer, LLM & RAG Developer
+- Titles: Full Stack MERN Developer, LLM & RAG Developer
 - Based in Chennai, Tamil Nadu, India
 - Email: dineshsdk1006@gmail.com | Phone: 8056577044
-- Open to Full Stack and AI Engineering roles
+- Open to Full Stack developer roles
 
 ABOUT
 Full Stack MERN Developer with 1.5+ years of experience at Tata Consultancy Services (TCS),
@@ -35,7 +35,7 @@ TECH STACK
 - Databases: MongoDB, SQL, Pinecone, ChromaDB
 - AI/LLM: LangChain.js, RAG Pipelines, Prompt Engineering
 - Tools: Git, GitHub, Postman, Figma, VS Code
-- Languages: Python, JavaScript, Java, TypeScript
+- Languages: Python, JavaScript, Java
 
 PROJECTS
 1. Poly Mind — Multi LLM Platform: compares responses from 6 different AI providers in real-time

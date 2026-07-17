@@ -5,7 +5,7 @@ export const profile = {
   phone: '8056577044',
   location: 'Chennai, Tamil Nadu, India',
   linkedin: 'https://www.linkedin.com/in/dinesh-kumar04/',
-  github: 'https://github.com/dineshkumars',
+  github: 'https://github.com/dineshkumar1064',
 };
 
 export const navLinks = [
