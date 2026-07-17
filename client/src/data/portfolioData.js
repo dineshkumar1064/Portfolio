@@ -163,7 +163,7 @@ export const projects = [
     tags: ['React', 'Node.js', 'MongoDB', 'Express'],
     live: '',
     video: '',
-    code: 'https://github.com/dineshkumar1064/mern-ecommerce',
+    code: 'https://github.com/dineshkumar1064/MERN-Ecommerce',
   },
 ];
 
