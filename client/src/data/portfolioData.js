@@ -85,6 +85,31 @@ bullets: [
 // whether a button should be disabled.
 export const projects = [
   {
+  thumb: 'thumb-3',
+  eyebrow: 'AI Developer Platform',
+  title: 'RAG-as-a-Service Platform',
+  desc: 'A reusable MERN-based platform that transforms document collections into production-ready AI APIs. Developers can create isolated knowledge bases, upload documents, validate retrieval quality, and integrate grounded AI responses into any application using a secure API.',
+  bullets: [
+    'Project-based knowledge base isolation with automated document ingestion and embedding generation',
+    'Interactive retrieval playground displaying AI responses, retrieved chunks, and similarity scores for validation',
+    'Secure API key management with one-time key generation, hashing, and JWT-based authentication',
+    'REST API powered by Groq, ChromaDB, and Ollama, enabling reusable Retrieval-Augmented Generation across multiple applications',
+  ],
+  tags: [
+    'React',
+    'Node.js',
+    'Express',
+    'MongoDB',
+    'ChromaDB',
+    'Ollama',
+    'Groq API',
+    'JWT'
+  ],
+  live: '',
+  video: 'https://www.linkedin.com/posts/dinesh-kumar04_ragasaservice-rag-mern-ugcPost-7484523238757122048-PvA_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEcNJU8BO-T9PBGPAzZsc8vjlnV4NdPwxLI',
+  code: 'https://github.com/dineshkumar1064/',
+},
+  {
     thumb: 'thumb-3',
     eyebrow: 'Document Intelligence',
     title: 'RAG System — Q&A over Documents',
